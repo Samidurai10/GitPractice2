@@ -1,3 +1,11 @@
 this is nice tool
 
 git add -used to add file to stage
+
+this is nice tool
+
+git add -used to add file to stage
+
+this is nice tool
+
+git add -used to add file to stage
